@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_display_name">切换演示</string>
+    <string name="app_name">Activity切换效果演示</string>
+    <string name="firstString">第1个Activity界面</string>
+    <string name="secString">第2个Activity界面</string>
+    <string name="leftRightSw">左右滑动切换</string>
+    <string name="updownSw">上下滑动切换</string>
+    <string name="dyncLeftRightSw">默认动态左右滑动切换</string>
+    <string name="dyncLeftRightSwG">优化动态左右滑动切换</string>
+
+</resources>
